@@ -1,0 +1,1 @@
+import{d as t,u as a,o as s,c as n,a as o,t as c,b as r}from"./index.13a15288.js";const d=t({__name:"index",setup(i){const{state:e,dispatch:l}=a();return(p,u)=>(s(),n("section",null,[o("div",null,c(r(e)),1)]))}});export{d as default};
